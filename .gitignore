@@ -1,0 +1,14 @@
+# Entornos y secretos
+.env
+.env.*
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
